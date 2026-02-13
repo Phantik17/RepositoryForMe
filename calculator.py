@@ -1,3 +1,4 @@
+# Калькулятор для демонстрации GitHub Actions
 def add(a, b):
     """Сложение двух чисел."""
     return a + b
@@ -18,4 +19,5 @@ def divide(a, b):
 
 def power(a, b):
     """Возведение числа a в степень b."""
+
     return a ** b
